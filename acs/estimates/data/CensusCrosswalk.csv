@@ -1,0 +1,656 @@
+Occupation 2010 Description,Level 0,Level 1,Level 2,Level 3,Level 4,Level 5
+"Management, Business, Science, and Arts Occupations",0010-3540,,,,,
+"Management, Business, and Financial Occupations",0010-3540,0010-0950,,,,
+Management Occupations:,0010-3540,0010-0950,0010-0430,,,
+Top executives,0010-3540,0010-0950,0010-0430,0010-0030,,
+Chief executives,0010-3540,0010-0950,0010-0430,0010-0030,0010,0010
+General and operations managers,0010-3540,0010-0950,0010-0430,0010-0030,0020,0020
+Legislators,0010-3540,0010-0950,0010-0430,0010-0030,0030,0030
+"Advertising, marketing, promotions, public relations, and sales managers",0010-3540,0010-0950,0010-0430,0040-0060,,
+Advertising and promotions managers,0010-3540,0010-0950,0010-0430,0040-0060,0040,0040
+Marketing and sales managers,0010-3540,0010-0950,0010-0430,0040-0060,0050,0050
+Public relations and fundraising managers,0010-3540,0010-0950,0010-0430,0040-0060,0060,0060
+Operations specialties managers except financial managers and human resources managers,0010-3540,0010-0950,0010-0430,"0100-0110, 0135, 0137-0160",,
+Administrative services managers,0010-3540,0010-0950,0010-0430,"0100-0110, 0135, 0137-0160",0100,0100
+Computer and information systems managers,0010-3540,0010-0950,0010-0430,"0100-0110, 0135, 0137-0160",0110,0110
+Financial managers,0010-3540,0010-0950,0010-0430,0120,0120,0120
+Compensation and benefits managers,0010-3540,0010-0950,0010-0430,"0100-0110, 0135, 0137-0160",0135,0135
+Human resources managers,0010-3540,0010-0950,0010-0430,0136,0136,0136
+Training and development managers,0010-3540,0010-0950,0010-0430,"0100-0110, 0135, 0137-0160",0137,0137
+Industrial production managers,0010-3540,0010-0950,0010-0430,"0100-0110, 0135, 0137-0160",0140,0140
+Purchasing managers,0010-3540,0010-0950,0010-0430,"0100-0110, 0135, 0137-0160",0150,0150
+"Transportation, storage, and distribution managers",0010-3540,0010-0950,0010-0430,"0100-0110, 0135, 0137-0160",0160,0160
+"Farmers, ranchers, and other agricultural managers",0010-3540,0010-0950,0010-0430,0205,0205,0205
+"Other management occupations except farmers, ranchers, and other agricultural managers",0010-3540,0010-0950,0010-0430,0220-0430,,
+Construction managers,0010-3540,0010-0950,0010-0430,0220-0430,0220,0220
+Education administrators,0010-3540,0010-0950,0010-0430,0220-0430,0230,0230
+Architectural and engineering managers,0010-3540,0010-0950,0010-0430,0220-0430,0300,0300
+Food service managers,0010-3540,0010-0950,0010-0430,0220-0430,0310,0310
+Funeral service managers,0010-3540,0010-0950,0010-0430,0220-0430,0325,0325
+Gaming managers,0010-3540,0010-0950,0010-0430,0220-0430,0330,0330
+Lodging managers,0010-3540,0010-0950,0010-0430,0220-0430,0340,0340
+Medical and health services managers,0010-3540,0010-0950,0010-0430,0220-0430,0350,0350
+Natural sciences managers,0010-3540,0010-0950,0010-0430,0220-0430,0360,0360
+Postmasters and mail superintendents,0010-3540,0010-0950,0010-0430,0220-0430,0400,0400
+"Property, real estate, and community association managers",0010-3540,0010-0950,0010-0430,0220-0430,0410,0410
+Social and community service managers,0010-3540,0010-0950,0010-0430,0220-0430,0420,0420
+Emergency management directors,0010-3540,0010-0950,0010-0430,0220-0430,0425,0425
+"Managers, all other",0010-3540,0010-0950,0010-0430,0220-0430,0430,0430
+Business and Financial Operations Occupations:,0010-3540,0010-0950,0500-0950,,,
+Other business operations specialists,0010-3540,0010-0950,0500-0950,"0500- 0600, 0640-0740",,
+"Agents and business managers of artists, performers, and athletes",0010-3540,0010-0950,0500-0950,"0500- 0600, 0640-0740",0500,0500
+"Buyers and purchasing agents, farm products",0010-3540,0010-0950,0500-0950,"0500- 0600, 0640-0740",0510,0510
+"Wholesale and retail buyers, except farm products",0010-3540,0010-0950,0500-0950,"0500- 0600, 0640-0740",0520,0520
+"Purchasing agents, except wholesale, retail, and farm products",0010-3540,0010-0950,0500-0950,"0500- 0600, 0640-0740",0530,0530
+"Claims adjusters, appraisers, examiners, and investigators",0010-3540,0010-0950,0500-0950,"0500- 0600, 0640-0740",0540,0540
+Compliance officers,0010-3540,0010-0950,0500-0950,"0500- 0600, 0640-0740",0565,0565
+Cost estimators,0010-3540,0010-0950,0500-0950,"0500- 0600, 0640-0740",0600,0600
+Human resources workers,0010-3540,0010-0950,0500-0950,0630,0630,0630
+"Compensation, benefits, and job analysis specialists",0010-3540,0010-0950,0500-0950,"0500- 0600, 0640-0740",0640,0640
+Training and development specialists,0010-3540,0010-0950,0500-0950,"0500- 0600, 0640-0740",0650,0650
+Logisticians,0010-3540,0010-0950,0500-0950,"0500- 0600, 0640-0740",0700,0700
+Management analysts,0010-3540,0010-0950,0500-0950,"0500- 0600, 0640-0740",0710,0710
+"Meeting, convention, and event planners",0010-3540,0010-0950,0500-0950,"0500- 0600, 0640-0740",0725,0725
+Fundraisers,0010-3540,0010-0950,0500-0950,"0500- 0600, 0640-0740",0726,0726
+Market research analysts and marketing specialists,0010-3540,0010-0950,0500-0950,"0500- 0600, 0640-0740",0735,0735
+"Business operations specialists, all other",0010-3540,0010-0950,0500-0950,"0500- 0600, 0640-0740",0740,0740
+Financial specialists:,0010-3540,0010-0950,0500-0950,0800-0950,,
+Accountants and auditors,0010-3540,0010-0950,0500-0950,0800-0950,0800,0800
+Other financial specialists,0010-3540,0010-0950,0500-0950,0800-0950,0810-0950,
+Appraisers and assessors of real estate,0010-3540,0010-0950,0500-0950,0800-0950,0810-0950,0810
+Budget analysts,0010-3540,0010-0950,0500-0950,0800-0950,0810-0950,0820
+Credit analysts,0010-3540,0010-0950,0500-0950,0800-0950,0810-0950,0830
+Financial analysts,0010-3540,0010-0950,0500-0950,0800-0950,0810-0950,0840
+Personal financial advisors,0010-3540,0010-0950,0500-0950,0800-0950,0810-0950,0850
+Insurance underwriters,0010-3540,0010-0950,0500-0950,0800-0950,0810-0950,0860
+Financial examiners,0010-3540,0010-0950,0500-0950,0800-0950,0810-0950,0900
+Credit counselors and loan officers,0010-3540,0010-0950,0500-0950,0800-0950,0810-0950,0910
+"Tax examiners and collectors, and revenue agents",0010-3540,0010-0950,0500-0950,0800-0950,0810-0950,0930
+Tax preparers,0010-3540,0010-0950,0500-0950,0800-0950,0810-0950,0940
+"Financial specialists, all other",0010-3540,0010-0950,0500-0950,0800-0950,0810-0950,0950
+"Computer, Engineering, and Science Occupations:",0010-3540,1000-1965,,,,
+Computer and mathematical occupations:,0010-3540,1000-1965,1000-1240,,,
+Computer occupations:,0010-3540,1000-1965,1000-1240,1000-1107,,
+Computer and information research scientists and analysts,0010-3540,1000-1965,1000-1240,1000-1107,1005-1007,
+Computer and information research scientists,0010-3540,1000-1965,1000-1240,1000-1107,1005-1007,1005
+Computer systems analysts,0010-3540,1000-1965,1000-1240,1000-1107,1005-1007,1006
+Information security analysts,0010-3540,1000-1965,1000-1240,1000-1107,1005-1007,1007
+Software developers and programmers,0010-3540,1000-1965,1000-1240,1000-1107,1010-1030,
+Computer programmers,0010-3540,1000-1965,1000-1240,1000-1107,1010-1030,1010
+"Software developers, applications and systems software",0010-3540,1000-1965,1000-1240,1000-1107,1010-1030,1020
+Web developers,0010-3540,1000-1965,1000-1240,1000-1107,1010-1030,1030
+Computer support specialists,0010-3540,1000-1965,1000-1240,1000-1107,"1050,1107",1050
+Database and systems administrators and network architects,0010-3540,1000-1965,1000-1240,1000-1107,1060-1106,
+Database administrators,0010-3540,1000-1965,1000-1240,1000-1107,1060-1106,1060
+Network and computer systems administrators,0010-3540,1000-1965,1000-1240,1000-1107,1060-1106,1105
+Computer network architects,0010-3540,1000-1965,1000-1240,1000-1107,1060-1106,1106
+"Miscellaneous computer occupations, including computer support specialists",0010-3540,1000-1965,1000-1240,1000-1107,"1050,1107",
+"Computer occupations, all other",0010-3540,1000-1965,1000-1240,1000-1107,"1050,1107",1107
+Mathematical science occupations,0010-3540,1000-1965,1000-1240,1200-1240,,
+Actuaries,0010-3540,1000-1965,1000-1240,1200-1240,1200,1200
+Mathematicians,0010-3540,1000-1965,1000-1240,1200-1240,1210,1210
+Operations research analysts,0010-3540,1000-1965,1000-1240,1200-1240,1220,1220
+Statisticians,0010-3540,1000-1965,1000-1240,1200-1240,1230,1230
+Miscellaneous mathematical science occupations,0010-3540,1000-1965,1000-1240,1200-1240,1240,1240
+Architecture and Engineering Occupations:,0010-3540,1000-1965,1300-1560,,,
+"Architects, surveyors, and cartographers",0010-3540,1000-1965,1300-1560,1300-1310,,
+"Architects, except naval",0010-3540,1000-1965,1300-1560,1300-1310,1300,1300
+"Surveyors, cartographers, and photogrammetrists",0010-3540,1000-1965,1300-1560,1300-1310,1310,1310
+Engineers,0010-3540,1000-1965,1300-1560,1320-1530,,
+Aerospace engineers,0010-3540,1000-1965,1300-1560,1320-1530,1320,1320
+Agricultural engineers,0010-3540,1000-1965,1300-1560,1320-1530,1330,1330
+Biomedical engineers,0010-3540,1000-1965,1300-1560,1320-1530,1340,1340
+Chemical engineers,0010-3540,1000-1965,1300-1560,1320-1530,1350,1350
+Civil engineers,0010-3540,1000-1965,1300-1560,1320-1530,1360,1360
+Computer hardware engineers,0010-3540,1000-1965,1300-1560,1320-1530,1400,1400
+Electrical and electronics engineers,0010-3540,1000-1965,1300-1560,1320-1530,1410,1410
+Environmental engineers,0010-3540,1000-1965,1300-1560,1320-1530,1420,1420
+"Industrial engineers, including health and safety",0010-3540,1000-1965,1300-1560,1320-1530,1430,1430
+Marine engineers and naval architects,0010-3540,1000-1965,1300-1560,1320-1530,1440,1440
+Materials engineers,0010-3540,1000-1965,1300-1560,1320-1530,1450,1450
+Mechanical engineers,0010-3540,1000-1965,1300-1560,1320-1530,1460,1460
+"Mining and geological engineers, including mining safety engineers",0010-3540,1000-1965,1300-1560,1320-1530,1500,1500
+Nuclear engineers,0010-3540,1000-1965,1300-1560,1320-1530,1510,1510
+Petroleum engineers,0010-3540,1000-1965,1300-1560,1320-1530,1520,1520
+"Engineers, all other",0010-3540,1000-1965,1300-1560,1320-1530,1530,1530
+"Drafters, engineering, and mapping technicians",0010-3540,1000-1965,1300-1560,1540-1560,,
+Drafters,0010-3540,1000-1965,1300-1560,1540-1560,1540,1540
+"Engineering technicians, except drafters",0010-3540,1000-1965,1300-1560,1540-1560,1550,1550
+Surveying and mapping technicians,0010-3540,1000-1965,1300-1560,1540-1560,1560,1560
+"Life, Physical, and Social Science Occupations:",0010-3540,1000-1965,1600-1965,,,
+Life and physical scientists,0010-3540,1000-1965,1600-1965,1600-1760,,
+Agricultural and food scientists,0010-3540,1000-1965,1600-1965,1600-1760,1600,1600
+Biological scientists,0010-3540,1000-1965,1600-1965,1600-1760,1610,1610
+Conservation scientists and foresters,0010-3540,1000-1965,1600-1965,1600-1760,1640,1640
+Medical scientists,0010-3540,1000-1965,1600-1965,1600-1760,1650,1650
+"Life scientists, all other",0010-3540,1000-1965,1600-1965,1600-1760,1660,1660
+Astronomers and physicists,0010-3540,1000-1965,1600-1965,1600-1760,1700,1700
+Atmospheric and space scientists,0010-3540,1000-1965,1600-1965,1600-1760,1710,1710
+Chemists and materials scientists,0010-3540,1000-1965,1600-1965,1600-1760,1720,1720
+Environmental scientists and geoscientists,0010-3540,1000-1965,1600-1965,1600-1760,1740,1740
+"Physical scientists, all other",0010-3540,1000-1965,1600-1965,1600-1760,1760,1760
+Social scientists and related workers,0010-3540,1000-1965,1600-1965,1800-1860,,
+Economists,0010-3540,1000-1965,1600-1965,1800-1860,1800,1800
+Survey researchers,0010-3540,1000-1965,1600-1965,1800-1860,1815,1815
+Psychologists,0010-3540,1000-1965,1600-1965,1800-1860,1820,1820
+Sociologists,0010-3540,1000-1965,1600-1965,1800-1860,1830,1830
+Urban and regional planners,0010-3540,1000-1965,1600-1965,1800-1860,1840,1840
+Miscellaneous social scientists and related workers,0010-3540,1000-1965,1600-1965,1800-1860,1860,1860
+"Life, physical, and social science technicians",0010-3540,1000-1965,1600-1965,1900-1965,,
+Agricultural and food science technicians,0010-3540,1000-1965,1600-1965,1900-1965,1900,1900
+Biological technicians,0010-3540,1000-1965,1600-1965,1900-1965,1910,1910
+Chemical technicians,0010-3540,1000-1965,1600-1965,1900-1965,1920,1920
+Geological and petroleum technicians,0010-3540,1000-1965,1600-1965,1900-1965,1930,1930
+Nuclear technicians,0010-3540,1000-1965,1600-1965,1900-1965,1940,1940
+Social science research assistants,0010-3540,1000-1965,1600-1965,1900-1965,1950,1950
+"Miscellaneous life, physical, and social science technicians",0010-3540,1000-1965,1600-1965,1900-1965,1965,1965
+"Education, Legal, Community Service, Arts, and Media Occupations:",0010-3540,2000-2960,,,,
+Community and Social Service Occupations:,0010-3540,2000-2960,2000-2060,,,
+"Counselors, social workers, and other community and social service specialists",0010-3540,2000-2960,2000-2060,2000-2025,,
+Counselors,0010-3540,2000-2960,2000-2060,2000-2025,2000,2000
+Social workers,0010-3540,2000-2960,2000-2060,2000-2025,2010,2010
+Probation officers and correctional treatment specialists,0010-3540,2000-2960,2000-2060,2000-2025,2015,2015
+Social and human service assistants,0010-3540,2000-2960,2000-2060,2000-2025,2016,2016
+"Miscellaneous community and social service specialists, including health educators and community health workers",0010-3540,2000-2960,2000-2060,2000-2025,2025,2025
+Religious workers,0010-3540,2000-2960,2000-2060,2040-2060,,
+Clergy,0010-3540,2000-2960,2000-2060,2040-2060,2040,2040
+"Directors, religious activities and education",0010-3540,2000-2960,2000-2060,2040-2060,2050,2050
+"Religious workers, all other",0010-3540,2000-2960,2000-2060,2040-2060,2060,2060
+Legal Occupations:,0010-3540,2000-2960,2100-2160,,,
+Lawyers and judicial law clerks,0010-3540,2000-2960,2100-2160,2100-2105,,
+Lawyers,0010-3540,2000-2960,2100-2160,2100-2105,2100,2100
+Judicial law clerks,0010-3540,2000-2960,2100-2160,2100-2105,2105,2105
+"Judges, magistrates, and other judicial workers",0010-3540,2000-2960,2100-2160,2110,2110,2110
+Legal support workers,0010-3540,2000-2960,2100-2160,2145-2160,,
+Paralegals and legal assistants,0010-3540,2000-2960,2100-2160,2145-2160,2145,2145
+Miscellaneous legal support workers,0010-3540,2000-2960,2100-2160,2145-2160,2160,2160
+"Education, Training, and Library Occupations:",0010-3540,2000-2960,2200-2550,,,
+Postsecondary teachers,0010-3540,2000-2960,2200-2550,2200,2200,2200
+"Primary, secondary, and special education school teachers",0010-3540,2000-2960,2200-2550,2300-2330,,
+Preschool and kindergarten teachers,0010-3540,2000-2960,2200-2550,2300-2330,2300,2300
+Elementary and middle school teachers,0010-3540,2000-2960,2200-2550,2300-2330,2310,2310
+Secondary school teachers,0010-3540,2000-2960,2200-2550,2300-2330,2320,2320
+Special education teachers,0010-3540,2000-2960,2200-2550,2300-2330,2330,2330
+Other teachers and instructors,0010-3540,2000-2960,2200-2550,"2340,2540-2550",2340,2340
+"Librarians, curators, and archivists",0010-3540,2000-2960,2200-2550,2400-2440,,
+"Archivists, curators, and museum technicians",0010-3540,2000-2960,2200-2550,2400-2440,2400,2400
+Librarians,0010-3540,2000-2960,2200-2550,2400-2440,2430,2430
+Library technicians,0010-3540,2000-2960,2200-2550,2400-2440,2440,2440
+"Other teachers and instructors, education, training, and library occupations",0010-3540,2000-2960,2200-2550,"2340,2540-2550",,
+Teacher assistants,0010-3540,2000-2960,2200-2550,"2340,2540-2550",2540,2540
+"Other education, training, and library workers",0010-3540,2000-2960,2200-2550,"2340,2540-2550",2550,2550
+,0010-3540,2000-2960,,,,
+"Arts, Design, Entertainment, Sports, and Media Occupations:",0010-3540,2000-2960,2600-2960,,,
+Art and design workers,0010-3540,2000-2960,2600-2960,2600-2630,,
+Artists and related workers,0010-3540,2000-2960,2600-2960,2600-2630,2600,2600
+Designers,0010-3540,2000-2960,2600-2960,2600-2630,2630,2630
+"Entertainers and performers, sports, and related workers",0010-3540,2000-2960,2600-2960,2700-2760,,
+Actors,0010-3540,2000-2960,2600-2960,2700-2760,2700,2700
+Producers and directors,0010-3540,2000-2960,2600-2960,2700-2760,2710,2710
+"Athletes, coaches, umpires, and related workers",0010-3540,2000-2960,2600-2960,2700-2760,2720,2720
+Dancers and choreographers,0010-3540,2000-2960,2600-2960,2700-2760,2740,2740
+"Musicians, singers, and related workers",0010-3540,2000-2960,2600-2960,2700-2760,2750,2750
+"Entertainers and performers, sports and related workers, all other",0010-3540,2000-2960,2600-2960,2700-2760,2760,2760
+Media and communication equipment workers,0010-3540,2000-2960,2600-2960,2800-2960,,
+Announcers,0010-3540,2000-2960,2600-2960,2800-2960,2800,2800
+"News analysts, reporters and correspondents",0010-3540,2000-2960,2600-2960,2800-2960,2810,2810
+Public relations specialists,0010-3540,2000-2960,2600-2960,2800-2960,2825,2825
+Editors,0010-3540,2000-2960,2600-2960,2800-2960,2830,2830
+Technical writers,0010-3540,2000-2960,2600-2960,2800-2960,2840,2840
+Writers and authors,0010-3540,2000-2960,2600-2960,2800-2960,2850,2850
+Miscellaneous media and communication workers,0010-3540,2000-2960,2600-2960,2800-2960,2860,2860
+Broadcast and sound engineering technicians and radio operators,0010-3540,2000-2960,2600-2960,2800-2960,2900,2900
+Photographers,0010-3540,2000-2960,2600-2960,2800-2960,2910,2910
+"Television, video, and motion picture camera operators and editors",0010-3540,2000-2960,2600-2960,2800-2960,2920,2920
+"Media and communication equipment workers, all other",0010-3540,2000-2960,2600-2960,2800-2960,2960,2960
+Healthcare Practitioners and Technical Occupations:,0010-3540,3000-3540,,,,
+Health diagnosing and treating practitioners and other technical occupations,0010-3540,3000-3540,"3000-3260,3540",,,
+Chiropractors,0010-3540,3000-3540,"3000-3260,3540","3000-3050,3110-3140,3250,3260,3540",3000,3000
+Dentists,0010-3540,3000-3540,"3000-3260,3540","3000-3050,3110-3140,3250,3260,3540",3010,3010
+Dietitians and nutritionists,0010-3540,3000-3540,"3000-3260,3540","3000-3050,3110-3140,3250,3260,3540",3030,3030
+Optometrists,0010-3540,3000-3540,"3000-3260,3540","3000-3050,3110-3140,3250,3260,3540",3040,3040
+Pharmacists,0010-3540,3000-3540,"3000-3260,3540",3050,3050,3050
+Physicians and surgeons,0010-3540,3000-3540,"3000-3260,3540",3060,3060,3060
+Physician assistants,0010-3540,3000-3540,"3000-3260,3540","3000-3050,3110-3140,3250,3260,3540",3110,3110
+Podiatrists,0010-3540,3000-3540,"3000-3260,3540","3000-3050,3110-3140,3250,3260,3540",3120,3120
+Audiologists,0010-3540,3000-3540,"3000-3260,3540","3000-3050,3110-3140,3250,3260,3540",3140,3140
+Therapists,0010-3540,3000-3540,"3000-3260,3540",3150-3245,,
+Occupational therapists,0010-3540,3000-3540,"3000-3260,3540",3150-3245,3150,3150
+Physical therapists,0010-3540,3000-3540,"3000-3260,3540",3150-3245,3160,3160
+Radiation therapists,0010-3540,3000-3540,"3000-3260,3540",3150-3245,3200,3200
+Recreational therapists,0010-3540,3000-3540,"3000-3260,3540",3150-3245,3210,3210
+Respiratory therapists,0010-3540,3000-3540,"3000-3260,3540",3150-3245,3220,3220
+Speech-language pathologists,0010-3540,3000-3540,"3000-3260,3540",3150-3245,3230,3230
+Exercise physiologists,0010-3540,3000-3540,"3000-3260,3540",3150-3245,3235,3235
+"Therapists, all other",0010-3540,3000-3540,"3000-3260,3540",3150-3245,3245,3245
+Veterinarians,0010-3540,3000-3540,"3000-3260,3540","3000-3050,3110-3140,3250,3260,3540",3250,3250
+Registered nurses,0010-3540,3000-3540,"3000-3260,3540",3255,3255,3255
+"Nurses, all other",0010-3540,3000-3540,"3000-3260,3540",3256-3258,,
+Nurse anesthetists,0010-3540,3000-3540,"3000-3260,3540",3256-3258,3256,3256
+Nurse midwives,0010-3540,3000-3540,"3000-3260,3540",3256-3258,3257,3257
+Nurse practitioners,0010-3540,3000-3540,"3000-3260,3540",3256-3258,3258,3258
+Other health diagnosing and treating practitioners and technical occupations,0010-3540,3000-3540,"3000-3260,3540","3000-3050,3110-3140,3250,3260,3540",,
+"Health diagnosing and treating practitioners, all other",0010-3540,3000-3540,"3000-3260,3540","3000-3050,3110-3140,3250,3260,3540",3260,3260
+Health technologists and technicians,0010-3540,3000-3540,3300-3535,,,
+Clinical laboratory technologists and technicians,0010-3540,3000-3540,3300-3535,3300,3300,3300
+Dental hygienists,0010-3540,3000-3540,3300-3535,3310,3310,3310
+Diagnostic related technologists and technicians,0010-3540,3000-3540,3300-3535,3320,3320,3320
+Emergency medical technicians and paramedics,0010-3540,3000-3540,3300-3535,3400,3400,3400
+Health practitioner support technologists and technicians,0010-3540,3000-3540,3300-3535,3420,3420,3420
+Licensed practical and licensed vocational nurses,0010-3540,3000-3540,3300-3535,3500,3500,3500
+Medical records and health information technicians,0010-3540,3000-3540,3300-3535,3510,3510,3510
+"Opticians, dispensing",0010-3540,3000-3540,3300-3535,3520,3520,3520
+Miscellaneous health technologists and technicians,0010-3540,3000-3540,3300-3535,3535,3535,3535
+Other healthcare practitioners and technical occupations,0010-3540,3000-3540,"3000-3260,3540",3540,3540,3540
+Service Occupations,3600-4650,,,,,
+Healthcare Support Occupations:,3600-4650,3600-3655,,,,
+,3600-4650,3600-3655,,,,
+"Nursing, psychiatric, and home health aides",3600-4650,3600-3655,3600,3600,3600,3600
+Occupational and physical therapist assistants and aides,3600-4650,3600-3655,3610-3620,,,
+Occupational therapy assistants and aides,3600-4650,3600-3655,3610-3620,3610,3610,3610
+Physical therapist assistants and aides,3600-4650,3600-3655,3610-3620,3620,3620,3620
+Other healthcare support occupations,3600-4650,3600-3655,3630-3655,,,
+Massage therapists,3600-4650,3600-3655,3630-3655,3630,3630,3630
+Dental assistants,3600-4650,3600-3655,3630-3655,3640,3640,3640
+Medical assistants,3600-4650,3600-3655,3630-3655,3645,3645,3645
+Medical transcriptionists,3600-4650,3600-3655,3630-3655,3646,3646,3646
+Pharmacy aides,3600-4650,3600-3655,3630-3655,3647,3647,3647
+Veterinary assistants and laboratory animal caretakers,3600-4650,3600-3655,3630-3655,3648,3648,3648
+Phlebotomists,3600-4650,3600-3655,3630-3655,3649,3649,3649
+"Healthcare support workers, all other, including medical equipment preparers",3600-4650,3600-3655,3630-3655,3655,3655,3655
+Protective Service Occupations:,3600-4650,3700-3955,,,,
+First-line supervisors of law enforcement workers,3600-4650,3700-3955,3700-3710,,,
+First-line supervisors of correctional officers,3600-4650,3700-3955,3700-3710,3700,3700,3700
+First-line supervisors of police and detectives,3600-4650,3700-3955,3700-3710,3710,3710,3710
+First-line supervisors of fire fighting and prevention workers,3600-4650,3700-3955,3720,3720,3720,3720
+"First-line supervisors of protective service workers, all other",3600-4650,3700-3955,3730,3730,3730,3730
+"First-line supervisors of protective service workers, all other",3600-4650,3700-3955,3730,3730,3730,3730
+Fire fighting and prevention workers,3600-4650,3700-3955,3740-3750,,,
+Firefighters,3600-4650,3700-3955,3740-3750,3740,3740,3740
+Fire inspectors,3600-4650,3700-3955,3740-3750,3750,3750,3750
+Law enforcement workers,3600-4650,3700-3955,3800-3860,,,
+"Bailiffs, correctional officers, and jailers",3600-4650,3700-3955,3800-3860,3800,3800,3800
+Detectives and criminal investigators,3600-4650,3700-3955,3800-3860,3820,3820,3820
+Fish and game wardens,3600-4650,3700-3955,3800-3860,3830,3830,3830
+Parking enforcement workers,3600-4650,3700-3955,3800-3860,3840,3840,3840
+Police and sheriff's patrol officers,3600-4650,3700-3955,3800-3860,3850,3850,3850
+Transit and railroad police,3600-4650,3700-3955,3800-3860,3860,3860,3860
+Other protective service workers,3600-4650,3700-3955,3900-3955,,,
+Animal control workers,3600-4650,3700-3955,3900-3955,3900,3900,3900
+Private detectives and investigators,3600-4650,3700-3955,3900-3955,3910,3910,3910
+Security guards and gaming surveillance officers,3600-4650,3700-3955,3900-3955,3930,3930,3930
+Crossing guards,3600-4650,3700-3955,3900-3955,3940,3940,3940
+Transportation security screeners,3600-4650,3700-3955,3900-3955,3945,3945,3945
+"Lifeguards and other recreational, and all other protective service workers",3600-4650,3700-3955,3900-3955,3955,3955,3955
+Food Preparation and Serving Related Occupations:,3600-4650,4000-4160,,,,
+First-line supervisors of food preparation and serving workers,3600-4650,4000-4160,4000-4010,,,
+Chefs and head cooks,3600-4650,4000-4160,4000-4010,4000,4000,4000
+First-line supervisors of food preparation and serving workers,3600-4650,4000-4160,4000-4010,4010,4010,4010
+Cooks and food preparation workers,3600-4650,4000-4160,4020-4030,,,
+Cooks,3600-4650,4000-4160,4020-4030,4020,4020,4020
+Food preparation workers,3600-4650,4000-4160,4020-4030,4030,4030,4030
+Food and beverage serving workers except waiters/waitresses,3600-4650,4000-4160,"4040-4060,4120",,,
+Bartenders,3600-4650,4000-4160,"4040-4060,4120",4040,4040,4040
+"Combined food preparation and serving workers, including fast food",3600-4650,4000-4160,"4040-4060,4120",4050,4050,4050
+"Counter attendants, cafeteria, food concession, and coffee shop",3600-4650,4000-4160,"4040-4060,4120",4060,4060,4060
+Waiters and waitresses,3600-4650,4000-4160,4110,4110,4110,4110
+"Food servers, nonrestaurant",3600-4650,4000-4160,"4040-4060,4120",4120,4120,4120
+Other food preparation and serving related workers,3600-4650,4000-4160,4130-4160,,,
+Dining room and cafeteria attendants and bartender helpers,3600-4650,4000-4160,4130-4160,4130,4130,4130
+Dishwashers,3600-4650,4000-4160,4130-4160,4140,4140,4140
+"Hosts and hostesses, restaurant, lounge, and coffee shop",3600-4650,4000-4160,4130-4160,4150,4150,4150
+"Food preparation and serving related workers, all other",3600-4650,4000-4160,4130-4160,4160,4160,4160
+Building and Grounds Cleaning and Maintenance Occupations:,3600-4650,4200-4250,,,,
+First-line supervisors of housekeeping and janitorial workers,3600-4650,4200-4250,4200,4200,4200,4200
+"First-line supervisors of landscaping, lawn service, and groundskeeping workers",3600-4650,4200-4250,4210,4210,4210,4210
+Building cleaning and pest control workers,3600-4650,4200-4250,4220-4240,,,
+Janitors and building cleaners,3600-4650,4200-4250,4220-4240,4220,4220,4220
+Maids and housekeeping cleaners,3600-4650,4200-4250,4220-4240,4230,4230,4230
+Pest control workers,3600-4650,4200-4250,4220-4240,4240,4240,4240
+Grounds maintenance workers,3600-4650,4200-4250,4250,4250,4250,4250
+Personal Care and Service Occupations:,3600-4650,4300-4650,,,,
+First-line supervisors of personal care and service workers,3600-4650,4300-4650,4300-4320,,,
+First-line supervisors of gaming workers,3600-4650,4300-4650,4300-4320,4300,4300,4300
+First-line supervisors of personal service workers,3600-4650,4300-4650,4300-4320,4320,4320,4320
+"Other personal care and service workers except personal appearance, baggage porters, concierges, and child care workers",3600-4650,4300-4650,"4340-4465,4610-4650",,,
+Animal trainers,3600-4650,4300-4650,"4340-4465,4610-4650",4340,4340,4340
+Nonfarm animal caretakers,3600-4650,4300-4650,"4340-4465,4610-4650",4350,4350,4350
+Gaming services workers,3600-4650,4300-4650,"4340-4465,4610-4650",4400,4400,4400
+Motion picture projectionists,3600-4650,4300-4650,"4340-4465,4610-4650",4410,4410,4410
+"Ushers, lobby attendants, and ticket takers",3600-4650,4300-4650,"4340-4465,4610-4650",4420,4420,4420
+Miscellaneous entertainment attendants and related workers,3600-4650,4300-4650,"4340-4465,4610-4650",4430,4430,4430
+Embalmers and funeral attendants,3600-4650,4300-4650,"4340-4465,4610-4650",4460,4460,4460
+"Morticians, undertakers, and funeral directors",3600-4650,4300-4650,"4340-4465,4610-4650",4465,4465,4465
+Personal appearance workers,3600-4650,4300-4650,4500-4520,,,
+Barbers,3600-4650,4300-4650,4500-4520,4500,4500,4500
+"Hairdressers, hairstylists, and cosmetologists",3600-4650,4300-4650,4500-4520,4510,4510,4510
+Miscellaneous personal appearance workers,3600-4650,4300-4650,4500-4520,4520,4520,4520
+"Baggage porters and concierges, and tour and travel guides",3600-4650,4300-4650,4530-4540,,,
+"Baggage porters, bellhops, and concierges",3600-4650,4300-4650,4530-4540,4530,4530,4530
+Tour and travel guides,3600-4650,4300-4650,4530-4540,4540,4540,4540
+Childcare workers,3600-4650,4300-4650,4600,4600,4600,4600
+Personal care aides,3600-4650,4300-4650,"4340-4465,4610-4650",4610,4610,4610
+Recreation and fitness workers,3600-4650,4300-4650,"4340-4465,4610-4650",4620,4620,4620
+Residential advisors,3600-4650,4300-4650,"4340-4465,4610-4650",4640,4640,4640
+"Personal care and service workers, all other",3600-4650,4300-4650,"4340-4465,4610-4650",4650,4650,4650
+Sales and Office Occupations:,4700-5940,,,,,
+Sales and Related Occupations:,4700-5940,4700-4965,,,,
+First-line supervisors of retail sales workers,4700-5940,4700-4965,4700,4700,4700,4700
+First-line supervisors of non-retail sales workers,4700-5940,4700-4965,4710,4710,4710,4710
+Cashiers,4700-5940,4700-4965,4720,4720,4720,4720
+Retail sales workers except cashiers,4700-5940,4700-4965,4740-4760,,,
+Counter and rental clerks,4700-5940,4700-4965,4740-4760,4740,4740,4740
+Parts salespersons,4700-5940,4700-4965,4740-4760,4750,4750,4750
+Retail salespersons,4700-5940,4700-4965,4740-4760,4760,4760,4760
+"Sales representatives, services",4700-5940,4700-4965,4800-4840,,,
+Advertising sales agents,4700-5940,4700-4965,4800-4840,4800,4800,4800
+Insurance sales agents,4700-5940,4700-4965,4800-4840,4810,4810,4810
+"Securities, commodities, and financial services sales agents",4700-5940,4700-4965,4800-4840,4820,4820,4820
+Travel agents,4700-5940,4700-4965,4800-4840,4830,4830,4830
+"Sales representatives, services, all other",4700-5940,4700-4965,4800-4840,4840,4840,4840
+"Sales representatives, wholesale and manufacturing",4700-5940,4700-4965,4850,4850,4850,4850
+Other sales and related workers,4700-5940,4700-4965,4900-4965,,,
+"Models, demonstrators, and product promoters",4700-5940,4700-4965,4900-4965,4900,4900,4900
+Real estate brokers and sales agents,4700-5940,4700-4965,4900-4965,4920,4920,4920
+Sales engineers,4700-5940,4700-4965,4900-4965,4930,4930,4930
+Telemarketers,4700-5940,4700-4965,4900-4965,4940,4940,4940
+"Door-to-door sales workers, news and street vendors, and related workers",4700-5940,4700-4965,4900-4965,4950,4950,4950
+"Sales and related workers, all other",4700-5940,4700-4965,4900-4965,4965,4965,4965
+Office and Administrative Support Occupations:,4700-5940,5000-5940,,,,
+First-line supervisors of office and administrative support workers,4700-5940,5000-5940,5000,5000,5000,5000
+Communications equipment operators,4700-5940,5000-5940,5010-5030,,,
+"Switchboard operators, including answering service",4700-5940,5000-5940,5010-5030,5010,5010,5010
+Telephone operators,4700-5940,5000-5940,5010-5030,5020,5020,5020
+"Communications equipment operators, all other",4700-5940,5000-5940,5010-5030,5030,5030,5030
+"Financial clerks except bookkeeping, accounting, and auditing clerks",4700-5940,5000-5940,"5100-5110,5130-5165",,,
+Bill and account collectors,4700-5940,5000-5940,"5100-5110,5130-5165",5100,5100,5100
+Billing and posting clerks,4700-5940,5000-5940,"5100-5110,5130-5165",5110,5110,5110
+"Bookkeeping, accounting, and auditing clerks",4700-5940,5000-5940,5120,5120,5120,5120
+Gaming cage workers,4700-5940,5000-5940,"5100-5110,5130-5165",5130,5130,5130
+Payroll and timekeeping clerks,4700-5940,5000-5940,"5100-5110,5130-5165",5140,5140,5140
+Procurement clerks,4700-5940,5000-5940,"5100-5110,5130-5165",5150,5150,5150
+Tellers,4700-5940,5000-5940,"5100-5110,5130-5165",5160,5160,5160
+"Financial clerks, all other",4700-5940,5000-5940,"5100-5110,5130-5165",5165,5165,5165
+Information and record clerks except customer service representatives,4700-5940,5000-5940,"5200-5230,5250-5420",,,
+Brokerage clerks,4700-5940,5000-5940,"5200-5230,5250-5420",5200,5200,5200
+Correspondence clerks,4700-5940,5000-5940,"5200-5230,5250-5420",5210,5210,5210
+"Court, municipal, and license clerks",4700-5940,5000-5940,"5200-5230,5250-5420",5220,5220,5220
+"Credit authorizers, checkers, and clerks",4700-5940,5000-5940,"5200-5230,5250-5420",5230,5230,5230
+Customer service representatives,4700-5940,5000-5940,5240,5240,5240,5240
+"Eligibility interviewers, government programs",4700-5940,5000-5940,"5200-5230,5250-5420",5250,5250,5250
+File clerks,4700-5940,5000-5940,"5200-5230,5250-5420",5260,5260,5260
+"Hotel, motel, and resort desk clerks",4700-5940,5000-5940,"5200-5230,5250-5420",5300,5300,5300
+"Interviewers, except eligibility and loan",4700-5940,5000-5940,"5200-5230,5250-5420",5310,5310,5310
+"Library assistants, clerical",4700-5940,5000-5940,"5200-5230,5250-5420",5320,5320,5320
+Loan interviewers and clerks,4700-5940,5000-5940,"5200-5230,5250-5420",5330,5330,5330
+New accounts clerks,4700-5940,5000-5940,"5200-5230,5250-5420",5340,5340,5340
+Order clerks,4700-5940,5000-5940,"5200-5230,5250-5420",5350,5350,5350
+"Human resources assistants, except payroll and timekeeping",4700-5940,5000-5940,"5200-5230,5250-5420",5360,5360,5360
+Receptionists and information clerks,4700-5940,5000-5940,"5200-5230,5250-5420",5400,5400,5400
+Reservation and transportation ticket agents and travel clerks,4700-5940,5000-5940,"5200-5230,5250-5420",5410,5410,5410
+"Information and record clerks, all other",4700-5940,5000-5940,"5200-5230,5250-5420",5420,5420,5420
+"Material recording, scheduling, dispatching, and distributing workers",4700-5940,5000-5940,5500-5630,,,
+Cargo and freight agents,4700-5940,5000-5940,5500-5630,5500,5500,5500
+Couriers and messengers,4700-5940,5000-5940,5500-5630,5510,5510,5510
+Dispatchers,4700-5940,5000-5940,5500-5630,5520,5520,5520
+"Meter readers, utilities",4700-5940,5000-5940,5500-5630,5530,5530,5530
+Postal service clerks,4700-5940,5000-5940,5500-5630,5540,5540,5540
+Postal service mail carriers,4700-5940,5000-5940,5500-5630,5550,5550,5550
+"Postal service mail sorters, processors, and processing machine operators",4700-5940,5000-5940,5500-5630,5560,5560,5560
+"Production, planning, and expediting clerks",4700-5940,5000-5940,5500-5630,5600,5600,5600
+"Shipping, receiving, and traffic clerks",4700-5940,5000-5940,5500-5630,5610,5610,5610
+Stock clerks and order fillers,4700-5940,5000-5940,5500-5630,5620,5620,5620
+"Weighers, measurers, checkers, and samplers, recordkeeping",4700-5940,5000-5940,5500-5630,5630,5630,5630
+Secretaries and administrative assistants,4700-5940,5000-5940,5700,5700,5700,5700
+Other office and administrative support workers,4700-5940,5000-5940,5800-5940,,,
+Computer operators,4700-5940,5000-5940,5800-5940,5800,5800,5800
+Data entry keyers,4700-5940,5000-5940,5800-5940,5810,5810,5810
+Word processors and typists,4700-5940,5000-5940,5800-5940,5820,5820,5820
+Desktop publishers,4700-5940,5000-5940,5800-5940,5830,5830,5830
+Insurance claims and policy processing clerks,4700-5940,5000-5940,5800-5940,5840,5840,5840
+"Mail clerks and mail machine operators, except postal service",4700-5940,5000-5940,5800-5940,5850,5850,5850
+"Office clerks, general",4700-5940,5000-5940,5800-5940,5860,5860,5860
+"Office machine operators, except computer",4700-5940,5000-5940,5800-5940,5900,5900,5900
+Proofreaders and copy markers,4700-5940,5000-5940,5800-5940,5910,5910,5910
+Statistical assistants,4700-5940,5000-5940,5800-5940,5920,5920,5920
+"Office and administrative support workers, all other",4700-5940,5000-5940,5800-5940,5940,5940,5940
+"Natural Resources, Construction, and Maintenance Occupations:",6005-7630,,,,,
+"Farming, Fishing, and Forestry Occupations:",6005-7630,6005-6130,,,,
+"First-line supervisors of farming, fishing, and forestry workers",6005-7630,6005-6130,6005,6005,6005,6005
+Agricultural workers,6005-7630,6005-6130,6010-6050,,,
+Agricultural inspectors,6005-7630,6005-6130,6010-6050,6010,6010,6010
+Animal breeders,6005-7630,6005-6130,6010-6050,6020,6020,6020
+"Graders and sorters, agricultural products",6005-7630,6005-6130,6010-6050,6040,6040,6040
+Miscellaneous agricultural workers,6005-7630,6005-6130,6010-6050,6050,6050,6050
+"Fishing and hunting, and forest, conservation, and logging workers",6005-7630,6005-6130,6100-6130,,,
+Fishers and related fishing workers,6005-7630,6005-6130,6100-6130,6100,6100,6100
+Hunters and trappers,6005-7630,6005-6130,6100-6130,6110,6110,6110
+Forest and conservation workers,6005-7630,6005-6130,6100-6130,6120,6120,6120
+Logging workers,6005-7630,6005-6130,6100-6130,6130,6130,6130
+Construction and Extraction Occupations:,6005-7630,6200-6940,,,,
+First-line supervisors of construction trades and extraction workers,6005-7630,6200-6940,6200,6200,6200,6200
+First-line supervisors of construction and extraction workers,6005-7630,6200-6940,6200,6200,6200,6200
+"Construction trades workers except carpenters, electricians, painters, plumbers, and construction laborers",6005-7630,6200-6940,"6210-6220,6240-6250,6300-6330,6360-6400,6460-6540",,,
+Boilermakers,6005-7630,6200-6940,"6210-6220,6240-6250,6300-6330,6360-6400,6460-6540",6210,6210,6210
+"Brickmasons, blockmasons, and stonemasons",6005-7630,6200-6940,"6210-6220,6240-6250,6300-6330,6360-6400,6460-6540",6220,6220,6220
+Carpenters,6005-7630,6200-6940,6230,6230,6230,6230
+"Carpet, floor, and tile installers and finishers",6005-7630,6200-6940,"6210-6220,6240-6250,6300-6330,6360-6400,6460-6540",6240,6240,6240
+"Cement masons, concrete finishers, and terrazzo workers",6005-7630,6200-6940,"6210-6220,6240-6250,6300-6330,6360-6400,6460-6540",6250,6250,6250
+Construction laborers,6005-7630,6200-6940,6260,6260,6260,6260
+"Paving, surfacing, and tamping equipment operators",6005-7630,6200-6940,"6210-6220,6240-6250,6300-6330,6360-6400,6460-6540",6300,6300,6300
+Pile-driver operators,6005-7630,6200-6940,"6210-6220,6240-6250,6300-6330,6360-6400,6460-6540",6310,6310,6310
+Operating engineers and other construction equipment operators,6005-7630,6200-6940,"6210-6220,6240-6250,6300-6330,6360-6400,6460-6540",6320,6320,6320
+"Drywall installers, ceiling tile installers, and tapers",6005-7630,6200-6940,"6210-6220,6240-6250,6300-6330,6360-6400,6460-6540",6330,6330,6330
+Electricians,6005-7630,6200-6940,6355,6355,6355,6355
+Glaziers,6005-7630,6200-6940,"6210-6220,6240-6250,6300-6330,6360-6400,6460-6540",6360,6360,6360
+Insulation workers,6005-7630,6200-6940,"6210-6220,6240-6250,6300-6330,6360-6400,6460-6540",6400,6400,6400
+Painters and paperhangers,6005-7630,6200-6940,6420-6430,,,
+"Painters, construction and maintenance",6005-7630,6200-6940,6420-6430,6420,6420,6420
+Paperhangers,6005-7630,6200-6940,6420-6430,6430,6430,6430
+"Pipelayers, plumbers, pipefitters, and steamfitters",6005-7630,6200-6940,6440,6440,6440,6440
+Plasterers and stucco masons,6005-7630,6200-6940,"6210-6220,6240-6250,6300-6330,6360-6400,6460-6540",6460,6460,6460
+Reinforcing iron and rebar workers,6005-7630,6200-6940,"6210-6220,6240-6250,6300-6330,6360-6400,6460-6540",6500,6500,6500
+Roofers,6005-7630,6200-6940,"6210-6220,6240-6250,6300-6330,6360-6400,6460-6540",6515,6515,6515
+Sheet metal workers,6005-7630,6200-6940,"6210-6220,6240-6250,6300-6330,6360-6400,6460-6540",6520,6520,6520
+Structural iron and steel workers,6005-7630,6200-6940,"6210-6220,6240-6250,6300-6330,6360-6400,6460-6540",6530,6530,6530
+Solar photovoltaic installers,6005-7630,6200-6940,"6210-6220,6240-6250,6300-6330,6360-6400,6460-6540",6540,6540,6540
+Other construction workers and helpers,6005-7630,6200-6940,6600-6765,,,
+"Helpers, construction trades",6005-7630,6200-6940,6600-6765,6600,6600,6600
+Construction and building inspectors,6005-7630,6200-6940,6600-6765,6660,6660,6660
+Elevator installers and repairers,6005-7630,6200-6940,6600-6765,6700,6700,6700
+Fence erectors,6005-7630,6200-6940,6600-6765,6710,6710,6710
+Hazardous materials removal workers,6005-7630,6200-6940,6600-6765,6720,6720,6720
+Highway maintenance workers,6005-7630,6200-6940,6600-6765,6730,6730,6730
+Rail-track laying and maintenance equipment operators,6005-7630,6200-6940,6600-6765,6740,6740,6740
+Septic tank servicers and sewer pipe cleaners,6005-7630,6200-6940,6600-6765,6750,6750,6750
+Miscellaneous construction and related workers,6005-7630,6200-6940,6600-6765,6765,6765,6765
+Extraction workers,6005-7630,6200-6940,6800-6940,,,
+"Derrick, rotary drill, and service unit operators, oil, gas, and mining",6005-7630,6200-6940,6800-6940,6800,6800,6800
+"Earth drillers, except oil and gas",6005-7630,6200-6940,6800-6940,6820,6820,6820
+"Explosives workers, ordnance handling experts, and blasters",6005-7630,6200-6940,6800-6940,6830,6830,6830
+Mining machine operators,6005-7630,6200-6940,6800-6940,6840,6840,6840
+"Roof bolters, mining",6005-7630,6200-6940,6800-6940,6910,6910,6910
+"Roustabouts, oil and gas",6005-7630,6200-6940,6800-6940,6920,6920,6920
+Helpers--extraction workers,6005-7630,6200-6940,6800-6940,6930,6930,6930
+Other extraction workers,6005-7630,6200-6940,6800-6940,6940,6940,6940
+"Installation, Maintenance, and Repair Occupations:",6005-7630,7000-7630,,,,
+"First-line supervisors of mechanics, installers, and repairers",6005-7630,7000-7630,7000,7000,7000,7000
+"Other installation, maintenance, and repair occupations including electrical and electronic equipment mechanics, installers, and repairers",6005-7630,7000-7630,"7010-7130,7300-7630",,,
+"Computer, automated teller, and office machine repairers",6005-7630,7000-7630,"7010-7130,7300-7630",7010,7010,7010
+Radio and telecommunications equipment installers and repairers,6005-7630,7000-7630,"7010-7130,7300-7630",7020,7020,7020
+Avionics technicians,6005-7630,7000-7630,"7010-7130,7300-7630",7030,7030,7030
+"Electric motor, power tool, and related repairers",6005-7630,7000-7630,"7010-7130,7300-7630",7040,7040,7040
+"Electrical and electronics installers and repairers, transportation equipment",6005-7630,7000-7630,"7010-7130,7300-7630",7050,7050,7050
+"Electrical and electronics repairers, industrial and utility",6005-7630,7000-7630,"7010-7130,7300-7630",7100,7100,7100
+"Electronic equipment installers and repairers, motor vehicles",6005-7630,7000-7630,"7010-7130,7300-7630",7110,7110,7110
+Electronic home entertainment equipment installers and repairers,6005-7630,7000-7630,"7010-7130,7300-7630",7120,7120,7120
+Security and fire alarm systems installers,6005-7630,7000-7630,"7010-7130,7300-7630",7130,7130,7130
+"Vehicle and mobile equipment mechanics, installers, and repairers",6005-7630,7000-7630,7140-7260,,,
+Aircraft mechanics and service technicians,6005-7630,7000-7630,7140-7260,7140,7140,7140
+Automotive body and related repairers,6005-7630,7000-7630,7140-7260,7150,7150,7150
+Automotive glass installers and repairers,6005-7630,7000-7630,7140-7260,7160,7160,7160
+Automotive service technicians and mechanics,6005-7630,7000-7630,7140-7260,7200,7200,7200
+Bus and truck mechanics and diesel engine specialists,6005-7630,7000-7630,7140-7260,7210,7210,7210
+Heavy vehicle and mobile equipment service technicians and mechanics,6005-7630,7000-7630,7140-7260,7220,7220,7220
+Small engine mechanics,6005-7630,7000-7630,7140-7260,7240,7240,7240
+"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",6005-7630,7000-7630,7140-7260,7260,7260,7260
+Control and valve installers and repairers,6005-7630,7000-7630,"7010-7130,7300-7630",7300,7300,7300
+"Heating, air conditioning, and refrigeration mechanics and installers",6005-7630,7000-7630,"7010-7130,7300-7630",7315,7315,7315
+Home appliance repairers,6005-7630,7000-7630,"7010-7130,7300-7630",7320,7320,7320
+Industrial and refractory machinery mechanics,6005-7630,7000-7630,"7010-7130,7300-7630",7330,7330,7330
+"Maintenance and repair workers, general",6005-7630,7000-7630,"7010-7130,7300-7630",7340,7340,7340
+"Maintenance workers, machinery",6005-7630,7000-7630,"7010-7130,7300-7630",7350,7350,7350
+Millwrights,6005-7630,7000-7630,"7010-7130,7300-7630",7360,7360,7360
+Electrical power-line installers and repairers,6005-7630,7000-7630,"7010-7130,7300-7630",7410,7410,7410
+Telecommunications line installers and repairers,6005-7630,7000-7630,"7010-7130,7300-7630",7420,7420,7420
+Precision instrument and equipment repairers,6005-7630,7000-7630,"7010-7130,7300-7630",7430,7430,7430
+Wind turbine service technicians,6005-7630,7000-7630,"7010-7130,7300-7630",7440,7440,7440
+"Coin, vending, and amusement machine servicers and repairers",6005-7630,7000-7630,"7010-7130,7300-7630",7510,7510,7510
+Commercial divers,6005-7630,7000-7630,"7010-7130,7300-7630",7520,7520,7520
+Locksmiths and safe repairers,6005-7630,7000-7630,"7010-7130,7300-7630",7540,7540,7540
+Manufactured building and mobile home installers,6005-7630,7000-7630,"7010-7130,7300-7630",7550,7550,7550
+Riggers,6005-7630,7000-7630,"7010-7130,7300-7630",7560,7560,7560
+Signal and track switch repairers,6005-7630,7000-7630,"7010-7130,7300-7630",7600,7600,7600
+"Helpers--installation, maintenance, and repair workers",6005-7630,7000-7630,"7010-7130,7300-7630",7610,7610,7610
+"Other installation, maintenance, and repair workers",6005-7630,7000-7630,"7010-7130,7300-7630",7630,7630,7630
+"Production, Transportation, and Material Moving Occupations:",7700-9750,,,,,
+Production Occupations:,7700-9750,7700-8965,,,,
+First-line supervisors of production and operating workers,7700-9750,7700-8965,7700,7700,7700,7700
+Assemblers and fabricators,7700-9750,7700-8965,7710-7750,,,
+"Aircraft structure, surfaces, rigging, and systems assemblers",7700-9750,7700-8965,7710-7750,7710,7710,7710
+"Electrical, electronics, and electromechanical assemblers",7700-9750,7700-8965,7710-7750,7720,7720,7720
+Engine and other machine assemblers,7700-9750,7700-8965,7710-7750,7730,7730,7730
+Structural metal fabricators and fitters,7700-9750,7700-8965,7710-7750,7740,7740,7740
+Miscellaneous assemblers and fabricators,7700-9750,7700-8965,7710-7750,7750,7750,7750
+Food processing workers,7700-9750,7700-8965,7800-7855,,,
+Bakers,7700-9750,7700-8965,7800-7855,7800,7800,7800
+"Butchers and other meat, poultry, and fish processing workers",7700-9750,7700-8965,7800-7855,7810,7810,7810
+"Food and tobacco roasting, baking, and drying machine operators and tenders",7700-9750,7700-8965,7800-7855,7830,7830,7830
+Food batchmakers,7700-9750,7700-8965,7800-7855,7840,7840,7840
+Food cooking machine operators and tenders,7700-9750,7700-8965,7800-7855,7850,7850,7850
+"Food processing workers, all other",7700-9750,7700-8965,7800-7855,7855,7855,7855
+Metal workers and plastic workers,7700-9750,7700-8965,7900-8220,,,
+Computer control programmers and operators,7700-9750,7700-8965,7900-8220,7900,7900,7900
+"Extruding and drawing machine setters, operators, and tenders, metal and plastic",7700-9750,7700-8965,7900-8220,7920,7920,7920
+"Forging machine setters, operators, and tenders, metal and plastic",7700-9750,7700-8965,7900-8220,7930,7930,7930
+"Rolling machine setters, operators, and tenders, metal and plastic",7700-9750,7700-8965,7900-8220,7940,7940,7940
+"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",7700-9750,7700-8965,7900-8220,7950,7950,7950
+"Drilling and boring machine tool setters, operators, and tenders, metal and plastic",7700-9750,7700-8965,7900-8220,7960,7960,7960
+"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",7700-9750,7700-8965,7900-8220,8000,8000,8000
+"Lathe and turning machine tool setters, operators, and tenders, metal and plastic",7700-9750,7700-8965,7900-8220,8010,8010,8010
+"Milling and planing machine setters, operators, and tenders, metal and plastic",7700-9750,7700-8965,7900-8220,8020,8020,8020
+Machinists,7700-9750,7700-8965,7900-8220,8030,8030,8030
+"Metal furnace operators, tenders, pourers, and casters",7700-9750,7700-8965,7900-8220,8040,8040,8040
+"Model makers and patternmakers, metal and plastic",7700-9750,7700-8965,7900-8220,8060,8060,8060
+"Molders and molding machine setters, operators, and tenders, metal and plastic",7700-9750,7700-8965,7900-8220,8100,8100,8100
+"Multiple machine tool setters, operators, and tenders, metal and plastic",7700-9750,7700-8965,7900-8220,8120,8120,8120
+Tool and die makers,7700-9750,7700-8965,7900-8220,8130,8130,8130
+"Welding, soldering, and brazing workers",7700-9750,7700-8965,7900-8220,8140,8140,8140
+"Heat treating equipment setters, operators, and tenders, metal and plastic",7700-9750,7700-8965,7900-8220,8150,8150,8150
+"Layout workers, metal and plastic",7700-9750,7700-8965,7900-8220,8160,8160,8160
+"Plating and coating machine setters, operators, and tenders, metal and plastic",7700-9750,7700-8965,7900-8220,8200,8200,8200
+"Tool grinders, filers, and sharpeners",7700-9750,7700-8965,7900-8220,8210,8210,8210
+"Metal workers and plastic workers, all other",7700-9750,7700-8965,7900-8220,8220,8220,8220
+Printing workers,7700-9750,7700-8965,8250-8256,,,
+Prepress technicians and workers,7700-9750,7700-8965,8250-8256,8250,8250,8250
+Printing press operators,7700-9750,7700-8965,8250-8256,8255,8255,8255
+Print binding and finishing workers,7700-9750,7700-8965,8250-8256,8256,8256,8256
+"Textile, apparel, and furnishings workers",7700-9750,7700-8965,8300-8460,,,
+Laundry and dry-cleaning workers,7700-9750,7700-8965,8300-8460,8300,8300,8300
+"Pressers, textile, garment, and related materials",7700-9750,7700-8965,8300-8460,8310,8310,8310
+Sewing machine operators,7700-9750,7700-8965,8300-8460,8320,8320,8320
+Shoe and leather workers and repairers,7700-9750,7700-8965,8300-8460,8330,8330,8330
+Shoe machine operators and tenders,7700-9750,7700-8965,8300-8460,8340,8340,8340
+"Tailors, dressmakers, and sewers",7700-9750,7700-8965,8300-8460,8350,8350,8350
+Textile bleaching and dyeing machine operators and tenders,7700-9750,7700-8965,8300-8460,8360,8360,8360
+"Textile cutting machine setters, operators, and tenders",7700-9750,7700-8965,8300-8460,8400,8400,8400
+"Textile knitting and weaving machine setters, operators, and tenders",7700-9750,7700-8965,8300-8460,8410,8410,8410
+"Textile winding, twisting, and drawing out machine setters, operators, and tenders",7700-9750,7700-8965,8300-8460,8420,8420,8420
+"Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",7700-9750,7700-8965,8300-8460,8430,8430,8430
+Fabric and apparel patternmakers,7700-9750,7700-8965,8300-8460,8440,8440,8440
+Upholsterers,7700-9750,7700-8965,8300-8460,8450,8450,8450
+"Textile, apparel, and furnishings workers, all other",7700-9750,7700-8965,8300-8460,8460,8460,8460
+Woodworkers,7700-9750,7700-8965,8500-8550,,,
+Cabinetmakers and bench carpenters,7700-9750,7700-8965,8500-8550,8500,8500,8500
+Furniture finishers,7700-9750,7700-8965,8500-8550,8510,8510,8510
+"Model makers and patternmakers, wood",7700-9750,7700-8965,8500-8550,8520,8520,8520
+"Sawing machine setters, operators, and tenders, wood",7700-9750,7700-8965,8500-8550,8530,8530,8530
+"Woodworking machine setters, operators, and tenders, except sawing",7700-9750,7700-8965,8500-8550,8540,8540,8540
+"Woodworkers, all other",7700-9750,7700-8965,8500-8550,8550,8550,8550
+Plant and system operators,7700-9750,7700-8965,8600-8630,,,
+"Power plant operators, distributors, and dispatchers",7700-9750,7700-8965,8600-8630,8600,8600,8600
+Stationary engineers and boiler operators,7700-9750,7700-8965,8600-8630,8610,8610,8610
+Water and wastewater treatment plant and system operators,7700-9750,7700-8965,8600-8630,8620,8620,8620
+Miscellaneous plant and system operators,7700-9750,7700-8965,8600-8630,8630,8630,8630
+Other production occupations,7700-9750,7700-8965,8640-8965,,,
+"Chemical processing machine setters, operators, and tenders",7700-9750,7700-8965,8640-8965,8640,8640,8640
+"Crushing, grinding, polishing, mixing, and blending workers",7700-9750,7700-8965,8640-8965,8650,8650,8650
+Cutting workers,7700-9750,7700-8965,8640-8965,8710,8710,8710
+"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",7700-9750,7700-8965,8640-8965,8720,8720,8720
+"Furnace, kiln, oven, drier, and kettle operators and tenders",7700-9750,7700-8965,8640-8965,8730,8730,8730
+"Inspectors, testers, sorters, samplers, and weighers",7700-9750,7700-8965,8640-8965,8740,8740,8740
+Jewelers and precious stone and metal workers,7700-9750,7700-8965,8640-8965,8750,8750,8750
+"Medical, dental, and ophthalmic laboratory technicians",7700-9750,7700-8965,8640-8965,8760,8760,8760
+Packaging and filling machine operators and tenders,7700-9750,7700-8965,8640-8965,8800,8800,8800
+Painting workers,7700-9750,7700-8965,8640-8965,8810,8810,8810
+Photographic process workers and processing machine operators,7700-9750,7700-8965,8640-8965,8830,8830,8830
+Semiconductor processors,7700-9750,7700-8965,8640-8965,8840,8840,8840
+Adhesive bonding machine operators and tenders,7700-9750,7700-8965,8640-8965,8850,8850,8850
+"Cleaning, washing, and metal pickling equipment operators and tenders",7700-9750,7700-8965,8640-8965,8860,8860,8860
+Cooling and freezing equipment operators and tenders,7700-9750,7700-8965,8640-8965,8900,8900,8900
+Etchers and engravers,7700-9750,7700-8965,8640-8965,8910,8910,8910
+"Molders, shapers, and casters, except metal and plastic",7700-9750,7700-8965,8640-8965,8920,8920,8920
+"Paper goods machine setters, operators, and tenders",7700-9750,7700-8965,8640-8965,8930,8930,8930
+Tire builders,7700-9750,7700-8965,8640-8965,8940,8940,8940
+Helpers--production workers,7700-9750,7700-8965,8640-8965,8950,8950,8950
+"Production workers, all other",7700-9750,7700-8965,8640-8965,8965,8965,8965
+Transportation and Material Moving Occupations:,7700-9750,9000-9750,,,,
+Transportation Occupations:,7700-9750,9000-9750,9000-9420,,,
+Supervisors of transportation and material moving workers,7700-9750,9000-9750,9000-9420,9000,9000,9000
+Air transportation workers,7700-9750,9000-9750,9000-9420,9030-9050,,
+Aircraft pilots and flight engineers,7700-9750,9000-9750,9000-9420,9030-9050,9030,9030
+Air traffic controllers and airfield operations specialists,7700-9750,9000-9750,9000-9420,9030-9050,9040,9040
+Flight attendants,7700-9750,9000-9750,9000-9420,,9050,9050
+Motor vehicle operators except bus and truck drivers,7700-9750,9000-9750,9000-9420,"9110,9140-9150",,
+"Ambulance drivers and attendants, except emergency medical technicians",7700-9750,9000-9750,9000-9420,"9110,9140-9150",9110,9110
+Bus drivers,7700-9750,9000-9750,9000-9420,9120,9120,9120
+Driver/sales workers and truck drivers,7700-9750,9000-9750,9000-9420,9130,9130,9130
+Taxi drivers and chauffeurs,7700-9750,9000-9750,9000-9420,"9110,9140-9150",9140,9140
+"Motor vehicle operators, all other",7700-9750,9000-9750,9000-9420,"9110,9140-9150",9150,9150
+Rail and water transportation workers,7700-9750,9000-9750,9000-9420,9200-9330,,
+Locomotive engineers and operators,7700-9750,9000-9750,9000-9420,9200-9330,9200,9200
+"Railroad brake, signal, and switch operators",7700-9750,9000-9750,9000-9420,9200-9330,9230,9230
+Railroad conductors and yardmasters,7700-9750,9000-9750,9000-9420,9200-9330,9240,9240
+"Subway, streetcar, and other rail transportation workers",7700-9750,9000-9750,9000-9420,9200-9330,9260,9260
+Sailors and marine oilers,7700-9750,9000-9750,9000-9420,9200-9330,9300,9300
+Ship and boat captains and operators,7700-9750,9000-9750,9000-9420,9200-9330,9310,9310
+Ship engineers,7700-9750,9000-9750,9000-9420,9200-9330,9330,9330
+Other transportation workers,7700-9750,9000-9750,9000-9420,9340-9420,,
+Bridge and lock tenders,7700-9750,9000-9750,9000-9420,9340-9420,9340,9340
+Parking lot attendants,7700-9750,9000-9750,9000-9420,9340-9420,9350,9350
+Automotive and watercraft service attendants,7700-9750,9000-9750,9000-9420,9340-9420,9360,9360
+Transportation inspectors,7700-9750,9000-9750,9000-9420,9340-9420,9410,9410
+"Transportation attendants, except flight attendants",7700-9750,9000-9750,9000-9420,9340-9420,9415,9415
+Material Moving Occupations:,7700-9750,9000-9750,9500-9750,,,
+"Material moving workers except supervisors and laborers and material movers, hand",7700-9750,9000-9750,9500-9750,"9500-9600,9650-9750",,
+Conveyor operators and tenders,7700-9750,9000-9750,9500-9750,"9500-9600,9650-9750",9500,9500
+Crane and tower operators,7700-9750,9000-9750,9500-9750,"9500-9600,9650-9750",9510,9510
+"Dredge, excavating, and loading machine operators",7700-9750,9000-9750,9500-9750,"9500-9600,9650-9750",9520,9520
+Hoist and winch operators,7700-9750,9000-9750,9500-9750,"9500-9600,9650-9750",9560,9560
+Industrial truck and tractor operators,7700-9750,9000-9750,9500-9750,"9500-9600,9650-9750",9600,9600
+"Laborers and material movers, hand",7700-9750,9000-9750,9500-9750,9610-9640,,
+Cleaners of vehicles and equipment,7700-9750,9000-9750,9500-9750,9610-9640,9610,9610
+"Laborers and freight, stock, and material movers, hand",7700-9750,9000-9750,9500-9750,9610-9640,9620,9620
+Machine feeders and offbearers,7700-9750,9000-9750,9500-9750,9610-9640,9630,9630
+"Packers and packagers, hand",7700-9750,9000-9750,9500-9750,9610-9640,9640,9640
+Pumping station operators,7700-9750,9000-9750,9500-9750,"9500-9600,9650-9750",9650,9650
+Refuse and recyclable material collectors,7700-9750,9000-9750,9500-9750,"9500-9600,9650-9750",9720,9720
+Mine shuttle car operators,7700-9750,9000-9750,9500-9750,"9500-9600,9650-9750",9730,9730
+"Tank car, truck, and ship loaders",7700-9750,9000-9750,9500-9750,"9500-9600,9650-9750",9740,9740
+"Material moving workers, all other",7700-9750,9000-9750,9500-9750,"9500-9600,9650-9750",9750,9750
+Military Specific Occupations:,9800-9830,,,,,
+Military officer special and tactical operations leaders,9800-9830,9800,9800,9800,9800,9800
+First-line enlisted military supervisors,9800-9830,9810,9810,9810,9810,9810
+Military enlisted tactical operations and air/weapons specialists and crew members,9800-9830,9820,9820,9820,9820,9820
+"Military, rank not specified",9800-9830,9830,9830,9830,9830,9830
+"Unemployed, with no work experience in the last 5 years or earlier or never worked",9800-9830,9920,9920,9920,9920,9920
