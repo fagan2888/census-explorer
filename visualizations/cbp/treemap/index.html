@@ -1,0 +1,70 @@
+<!doctype html>
+<meta charset="utf-8">
+
+<script src="http://www.d3plus.org/js/d3.js"></script>
+<script src="http://www.d3plus.org/js/topojson.js"></script>
+<script src="http://www.d3plus.org/js/d3plus.js"></script>
+
+<script src="../data.js"></script>
+
+<!-- create container element for visualization -->
+<div id="viz"></div>
+
+<script>
+
+var ohio_counties = [39007, 39085, 39095, 39123, 39051, 39055, 39171, 39035, 39043, 39173, 39093, 39155, 39143, 39069, 39039, 39153, 39133, 39077, 39103, 39147, 39125, 39063, 39137, 39099, 39005, 39033, 39139, 39175, 39169, 39161, 39151, 39029, 39003, 39065, 39019, 39107, 39117, 39101, 39011, 39075, 39157, 39081, 39083, 39091, 39159, 39149, 39031, 39041, 39067, 39037, 39089, 39021, 39059, 39109, 39013, 39119, 39049, 39097, 39023, 39121, 39045, 39127, 39113, 39135, 39111, 39057, 39129, 39115, 39047, 39073, 39167, 39017, 39165, 39027, 39009, 39141, 39163, 39071, 39061, 39025, 39015, 39079, 39105, 39131, 39001, 39053, 39145, 39087];
+
+var viz;
+
+var handleDepth = function(val) {
+    console.log(val);
+    filterData(null, function(x) {
+        if (val != 2) {
+            return  x.NAICS2012.length == val; 
+        } else {
+            return x.NAICS2012.length == 2 || x.NAICS2012.indexOf("-") >= 0;
+        }
+    });
+};
+
+
+var drawViz = function(mydata) {
+    if (!viz) {
+        viz = d3plus.viz()
+        .attrs("../attrs_naics.json")
+        .container("#viz")
+        .id(["l0", "l1", "NAICS2012"])
+        .data(mydata)
+        // .text("name")
+        .type("tree_map")
+        .size("EMP")
+        .tooltip(["EMP", "ESTAB"])
+        .color("l0")
+        .title("Industries in Ohio by Employment")
+        .depth(0)
+        .ui([
+            {
+            "method" : "depth",
+            "value"  : [ 0, 1, 2 ]
+          },
+            {
+            "method" : "size",
+            "value"  : [ {"Number of employees" : "EMP"} , {"Number of establishments": "ESTAB"} ]
+          }
+          // ,
+            // {
+            // "method" : handleDepth,
+            // "value"  : [ {"2-digit NAICS": 2}, {"4-digit NAICS" : 4} , {"6-digit NAICS": 6} ]
+          // }
+        ])
+        .draw();
+    } else {
+        viz.data(mydata).draw();
+    }
+}
+
+
+filterData("treemap_cbp.json", function(x) {
+        return x.NAICS2012.length == 6; // || x.NAICS2012.indexOf("-") >=0; 
+});
+</script>
